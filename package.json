@@ -1,0 +1,19 @@
+{
+  "name": "dx",
+  "version": "1.0.0",
+  "description": "a modular web-based UI design tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proctormax/dx.git"
+  },
+  "author": "Proctor MAXX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proctormax/dx/issues"
+  },
+  "homepage": "https://github.com/proctormax/dx#readme"
+}
